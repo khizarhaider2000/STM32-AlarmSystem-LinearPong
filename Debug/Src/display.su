@@ -1,0 +1,4 @@
+../Src/display.c:56:6:DisplayEnable	16	static
+../Src/display.c:62:6:DisplayPrint	36	static
+../Src/display.c:96:6:DisplayColor	16	static
+../Src/display.c:107:6:UpdateDisplay	16	static
